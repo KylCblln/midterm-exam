@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    color:black
+}
+
+.login_form h1:hover{
+    color:rgb(93, 233, 235);
+}
+
+button:hover{
+    background-color:rgb(93, 233, 235);
+}
